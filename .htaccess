@@ -1,0 +1,9 @@
+DirectoryIndex index.php index.html index.htm
+
+Options -Indexes
+Options +FollowSymlinks
+
+#<Files .htaccess>
+#deny from all
+#</Files>
+#
